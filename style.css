@@ -158,7 +158,7 @@ nav {
   width: 200px;
   height: 200px;
   border-radius: 50%;
-  background-image: url("/img/phot_me.jpg");
+  background-image: url("./img/phot_me.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -300,19 +300,19 @@ nav {
   background-size: cover;
 }
 .project-img-1 {
-  background-image: url("/img/blog.jpeg");
+  background-image: url("./img/blog.jpeg");
 }
 .project-img-2 {
-  background-image: url("/img/hotel.jpeg");
+  background-image: url("./img/hotel.jpeg");
 }
 .project-img-3 {
-  background-image: url("/img/library.jpeg");
+  background-image: url("./img/library.jpeg");
 }
 .project-img-4 {
-  background-image: url("/img/data_analysis.jpeg");
+  background-image: url("./img/data_analysis.jpeg");
 }
 .project-img-5 {
-  background-image: url("/img/transport.jpeg");
+  background-image: url("./img/transport.jpeg");
 }
 .project-content {
   padding: 1.5rem;
